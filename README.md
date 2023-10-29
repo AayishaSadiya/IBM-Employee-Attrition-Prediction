@@ -1,2 +1,3 @@
 # IBM Employee Attrition Prediction
  
+The IBM’s Employee Attrition Prediction project aims to create a model that utilizes employee satisfaction and performance data to assist HR departments in forecasting and minimizing employee turnover. Through data preprocessing, exploratory data analysis, and effective model implementation, culminating in actionable recommendations for enhancing employee retention and satisfaction.
